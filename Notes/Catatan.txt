@@ -1,0 +1,9 @@
+Fungsi Git
+- Membuat "Save points" didalam kode yang bisa direverse ketika 
+di main kode terjadi error atau hilang.
+- Memanage perubahan yang dibuat oleh orang lain dengan cara "merging"
+beberapa versi kode didalam codebase yang sama.
+
+Fungsi Github
+- Software berbasis cloud SaaS yang sekarang dimiliki oleh Microsoft.
+- Untuk membagi kode dengan orang lain.

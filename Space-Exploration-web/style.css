@@ -1,0 +1,27 @@
+body {
+    font-family: "VT323", monospace;
+    font-size: 25px;
+    color: rgb(20, 24, 28);
+    background-image: url("/Space-Exploration-web/image.png");
+    background-size: cover;
+    text-align: center;
+}
+
+.sign {
+    background: whitesmoke;
+    font-family: "VT323", monospace;
+    font-size: 20px;
+    padding: 3px 10px;
+    border: 1px solid rgb(15, 2, 50);
+}
+
+.add {
+    background: rgb(250, 246, 251);
+    border: 1px solid rgb(15, 2, 50);
+    text-align: center;
+}
+
+.tambahan {
+    color: rgb(74, 0, 139);
+}
+
